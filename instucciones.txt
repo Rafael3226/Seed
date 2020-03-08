@@ -1,0 +1,9 @@
+Descargar un dataset de airbnb y realizar las siguientes consultas:
+
+    Alojamiento más barato  
+    Alojamiento con precio más alto
+    Alojamiento con la mejor calificación en el puntaje de los comentarios (reviews)  
+    Alojamiento con depósito de seguridad y tarifa de limpieza más baratos (menor x, con x=depósito de seguridad + tarifa de limpieza)  
+    Alojamientos que cuenten con microondas, TV y precio menor a $500  
+    Media de precios de todos los alojamientos que cuenten con microondas  
+    Alojamientos con menor cantidad de noches mínimas, cantidad máxima de noches mayor a 15, que cuenten con TV y costo menor a $200
